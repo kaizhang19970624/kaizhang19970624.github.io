@@ -15,9 +15,11 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 
 - **Cell Type Identification of Mouse Retinal Pigment Epithelium from ScRNA-seq Data**
   <br>
-  Single-cell RNA sequencing (ScRNA-seq) is a next-generation sequencing (NGS) method that examines the transcriptomes of individual cells,
-  providing a high-resolution view of cell-to-cell variation. In this project, we used unsupervised learning methods to identify the cellular 
-  composition and activities of mouse retinal pigment epithelium (RPE), and further to detect the gene markers for each cell type by statistical methods. 
+  This project used unsupervised learning methods to identify the cellular composition and activities of mouse retinal pigment epithelium (RPE) from
+  single-cell transcriptomics, and further to detect cell-to-cell variation by statistical methods. We firstly processed raw sequence data into a high-quality expression data
+  fllowing _Scater_ workflow, including rigorous pre-processing, quality control, feature selection and PCA dimensionality reduction. Then, multiple clustering algorithms were
+  performed and compared on cells to identify RPE cell types, including K-means, DBSCAN and SNN graph-based clustering. Finally, potential gene markers were detected for each
+  cell class using pairwise t-test with BH adjustment for multiple comparisons.
 
 ## News
 
