@@ -9,7 +9,7 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 ## Research Interests
 
 - **Statistical Science:** generalized linear model, econometrics, quantitative finance
-- **Machine Learning:** causal inference, interpretability, predictive model
+- **Machine Learning:** causal inference, interpretability method, predictive model
 
 ## News
 
