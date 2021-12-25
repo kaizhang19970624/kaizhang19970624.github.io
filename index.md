@@ -11,6 +11,18 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 - **Statistical Learning:** time series, quantitative finance, interpretable machine learning
 - **Causal Inference:** econometrics, targeted learning, experimental design and analysis
 
+## Projects
+
+- **Cell Type Identification of Mouse Retinal Pigment Epithelium from ScRNA-seq Data**
+  <br>
+  Single-cell RNA sequencing (ScRNA-seq) is a next-generation sequencing (NGS) method that examines the transcriptomes of individual cells,
+  <br>
+  providing a high-resolution view of cell-to-cell variation. In this project, we used unsupervised learning methods to identify the cellular 
+  <br>
+  composition and activities of mouse retinal pigment epithelium (RPE), and further to detect the gene markers for each cell type by statistical
+  <br>
+  methods. 
+
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
