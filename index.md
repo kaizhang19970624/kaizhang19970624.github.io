@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data (SRIBD). He is affiliated to the Government and Industrial Big Data Lab where he primarily works on delivering insight and impact for government and enterprises through a wide range of flexible support models, providing ad hoc, deeply transformational, and ongoing analytics architecture and solutions. Kai’s recent research interest focuses on causal inference, machine learning, and quantitative finance.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Statistical Science:** generalized linear model, econometrics, quantitative finance
+- **Machine Learning:** causal inference, interpretability, predictive model
 
 ## News
 
