@@ -13,7 +13,7 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 
 ## Projects
 
-- **Cell Type Identification of Mouse Retinal Pigment Epithelium from ScRNA-seq Data (Supervised by Prof. Xi Kathy Zhou)**
+- **Cell Type Identification of Mouse Retinal Pigment Epithelium from ScRNA-seq Data (Supervised by Prof. Xi Kathy Zhou at Cornell University)**
   <br>
   This project used unsupervised learning methods to identify the cellular composition and activities of mouse retinal pigment epithelium (RPE) from
   single-cell transcriptomics, and further to detect cell-to-cell variation by statistical methods. We firstly processed raw sequence data into a high-quality expression data
