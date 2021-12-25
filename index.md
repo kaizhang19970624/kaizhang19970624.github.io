@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data (SRIBD). He is affiliated to the Government and Industrial Big Data Lab where he primarily works on delivering insight and impact for government and enterprises through a wide range of flexible support models, providing ad hoc, deeply transformational, and ongoing analytics architecture and solutions. Before joining SRIBD, Kai received his Master's degree in Biostatistics from Cornell University, and Bachelor's degree in Statistics from Chinese University of Hong Kong, Shenzhen.
+Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data (SRIBD). He is affiliated to the Government and Industrial Big Data Lab where he primarily works on delivering insight and impact for government and enterprises through a wide range of flexible support models, providing ad hoc, deeply transformational, and ongoing analytics architecture and solutions. Before joining SRIBD, Kai received his Master's degree in Biostatistics from Cornell University, and a Bachelor's degree in Statistics from Chinese University of Hong Kong, Shenzhen.
 
 ## Research Interests
 
