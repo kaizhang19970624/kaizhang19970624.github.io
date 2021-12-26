@@ -13,7 +13,7 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 
 ## Projects
 
-- **Automated Project Auditing System Based on Semantic Text Matching Algorithms**
+- **Automated Project Auditing System Based on Semantic Text Matching Algorithms (Supervised by Prof. Tao Shu at CUHKSZ)**
   <br>
   This project developed text semantic matching metrics based on WordNet lexical database with Wu Palmer similarity and Word2Vec algorithm with cosine similarity, providing
   Shenzhen Science and Technology Innovation Commision with a solution to audit the research outputs of the state-funded projects in batches.
