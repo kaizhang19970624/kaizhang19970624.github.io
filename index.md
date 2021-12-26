@@ -13,6 +13,11 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 
 ## Projects
 
+- **Automated Project Auditing System Based on Semantic Text Matching Algorithms**
+  <br>
+  This project developed text semantic matching metrics based on WordNet lexical database with Wu Palmer similarity and Word2Vec algorithm with cosine similarity, providing
+  Shenzhen Science and Technology Innovation Commision with a solution to audit the research outputs of the state-funded projects in batches.
+
 - **Cell Type Identification of Mouse Retinal Pigment Epithelium from ScRNA-seq Data (Supervised by Prof. Xi Kathy Zhou at Cornell University)**
   <br>
   This project used unsupervised learning methods to identify the cellular composition and activities of mouse retinal pigment epithelium (RPE) from
