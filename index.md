@@ -21,7 +21,7 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
   performed and compared on cells to identify RPE cell types, including K-means, DBSCAN and SNN graph-based clustering. Finally, potential gene markers were detected for each
   cell class using pairwise t-test with BH adjustment for multiple comparisons.
 
-- **Statistical Mediation Analysis on Components of Frailty With An Ordinal Outcome (Supervised by Prof. Arindam RoyChoudhury)**
+- **Statistical Mediation Analysis on Components of Frailty with an Ordinal Outcome (Supervised by Prof. Arindam RoyChoudhury)**
   <br>
   This project investigated into Racho Bernado study, an observational cohort study, regarding mechanism of frailty in older adults. Evidence of mediation relationship among
   components of frailty (strength, body composition, and body performance) is provided by traditional Baron and Kenny's three-steps method based on proportional odds model.
