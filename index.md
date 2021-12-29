@@ -13,6 +13,10 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
 
 ## Projects
 
+- **Comprehensive Python Framework for Factor Investment (Supervised by Prof. Tao Shu at CUHKSZ)**
+  <br>
+  This project is aimed at providing a comprehensive software framework for factor investment, including data interface, factors library, factor analysis, and strategy backtesting. Data interface module supports storing and importing of financial data. Factor analyzer module provides performance analysis of predictive stock factor, including Fama-MacBeth regression, time series regression, barra regression, informaction coefficient analysis and fractile analysis, etc. Backtester module provides vectorized backtesting framework for investment strategy. 
+
 - **Automated Project Auditing System Based on Semantic Text Matching Algorithms (Supervised by Prof. Tao Shu at CUHKSZ)**
   <br>
   This project developed text semantic matching metrics based on WordNet lexical database with Wu Palmer similarity and Word2Vec algorithm with cosine similarity, providing
