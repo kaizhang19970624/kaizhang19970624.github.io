@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data (SRIBD). He is affiliated to the Government and Industrial Big Data Lab where he primarily works on delivering insight and impact for government and enterprises through a wide range of flexible support models, providing ad hoc, deeply transformational, and ongoing analytics architecture and solutions. Before joining SRIBD, Kai received his Master's degree in Biostatistics from Cornell University, and a Bachelor's degree in Statistics from Chinese University of Hong Kong, Shenzhen.
+Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data (深圳市大数据研究院, SRIBD). I am affiliated to the Government and Industrial Big Data Lab (政企大数据实验室) where I am qualified to deliver insight and impact for government and enterprises through a wide range of flexible support models, providing ad hoc, deeply transformational, and ongoing analytics architecture and solutions. Currently, I am primarily researching on factor investing in Chinese stocks market, and responsible for multiple projects related to emperical asset pricing, quantitative strategy design, and performance attribution for financial products. Before joining SRIBD, I received my Master's degree in Biostatistics from Cornell University, and a Bachelor's degree in Statistics with the First-class Honour from Chinese University of Hong Kong, Shenzhen.
 
 ## Research Interests
 
@@ -34,41 +34,3 @@ Kai Zhang is a research data engineer at Shenzhen Research Institute of Big Data
   <br>
   This project investigated into Racho Bernado study, an observational cohort study, regarding mechanism of frailty in older adults. Evidence of mediation relationship among
   components of frailty (strength, body composition, and body performance) is provided by traditional Baron and Kenny's three-steps method based on proportional odds model.
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
